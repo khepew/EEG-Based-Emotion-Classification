@@ -1,5 +1,5 @@
 %%
-% Ali KhosraviPour - 99101502
+% Ali KhosraviPour
 clc;
 clear all;
 load("Project_data.mat");
